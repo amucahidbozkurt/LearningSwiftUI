@@ -11,6 +11,7 @@
 		168A4EFB282696730002E6E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168A4EFA282696730002E6E2 /* ContentView.swift */; };
 		168A4EFD282696730002E6E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 168A4EFC282696730002E6E2 /* Assets.xcassets */; };
 		168A4F00282696730002E6E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 168A4EFF282696730002E6E2 /* Preview Assets.xcassets */; };
+		168A4F072826AE130002E6E2 /* SpecialImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168A4F062826AE130002E6E2 /* SpecialImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		168A4EFA282696730002E6E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		168A4EFC282696730002E6E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		168A4EFF282696730002E6E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		168A4F062826AE130002E6E2 /* SpecialImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				168A4EF8282696730002E6E2 /* ViewsProjectApp.swift */,
 				168A4EFA282696730002E6E2 /* ContentView.swift */,
+				168A4F062826AE130002E6E2 /* SpecialImageView.swift */,
 				168A4EFC282696730002E6E2 /* Assets.xcassets */,
 				168A4EFE282696730002E6E2 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				168A4EFB282696730002E6E2 /* ContentView.swift in Sources */,
 				168A4EF9282696730002E6E2 /* ViewsProjectApp.swift in Sources */,
+				168A4F072826AE130002E6E2 /* SpecialImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
